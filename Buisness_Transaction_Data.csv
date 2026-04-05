@@ -1,0 +1,214 @@
+Transaction_ID,Date,customer name,CUSTOMER_ID,Product,Category,Amount,Currency,Exchange_Rate,Amount_USD,Payment_Method,Status,Region,Sales_Rep,Commission%,Tax,Discount,NET AMOUNT,Invoice#,Notes
+0169,2023-07-13,ACME CORP.,C003,data storage,products,29462,EUR,1.08,31818.96,credit card,pending,NORTH AMERICA,Carlos Mendez,0.0392,4419.3,0.07,31818.96,32566,
+txn0018,06-22-2023,JOHN SMITH,C001,Training,Services,3297,CAD,0.74,2439.78,Cheque,Cancelled,Europe,TBD,10.8%,263.76,0.12,3165.12,Invoice-15096,disputed
+TXN-0118,01/04/2023,Tech Solutions,C005,Data Storage,Products,11981,GBP,1.27,15215.87,Check,COMPLETED,Asia Pacific,,0.1347,0.0,0.03,11621.57,INV31178,
+TXN0190,24-03-2023,Maria Garcia,C007,Training,Services,15901,USD,1,15901.0,CC,Complete,EU,,0.0763,1590.1,0.13,15423.97,INV-45941,DISPUTED
+TXN-0025,2023/07/03,XYZ Enterprises,,Consulting,Services,48941.73,GBP,1.27,62156.0,Check,Cancelled,NORTH AMERICA,mike wilson,0.0643,9788.35,0.22,47962.9,95816,
+TXN #0061,2023-07-05,Sarah Connor,C006,hardware,Products,6765,GBP,1.27,8591.55,wire transfer,Complete,APAC,Carlos Mendez,0.1133,541.2,0.22,5817.9,64574,Recurring
+txn0133,07/06/2023,john smith,C001,hardware,Products,744.84,GBP,1.27,945.95,CC,Complete,EUROPE,TBD,0.1212,59.59,0.01,796.98,inv-87216,One-time
+TXN0005,24/10/2023,John Smith,C001,Support Contract,Services,44054.14,GBP,1.27,55948.76,CHECK,CANCELLED,Europe,Tom Brown,0.1126,4405.41,0.05,46256.84,Invoice-47347,Follow up needed
+txn0148,"July 08, 2023",Maria Garcia,C007,hardware,Products,19155,EUR,1.08,20687.4,Wire Transfer,CANCELLED,EU,,0.1055,3831.0,0.13,20495.85,inv-49438,Late payment
+txn0006,09-19-2023,Jane  Doe,C002,Hardware,Products,21150.1,USD,1,21150.1,credit card,Canceled,LATAM,Carlos Mendez,0.0865,,0.07,19669.59,Invoice-73672,OK
+0073,14-12-2023,JOHN SMITH,C001,Software license,Software,6665,JPY,0.0067,44.66,Cheque,COMPLETED,Asia Pacific,TBD,0.0564,1333.0,0.04,7731.4,#INV-97090,One-time
+TXN0117,02/02/2023,Tech Solutions Ltd,C005,support contract,services,28401.555,EUR,1.08,30673.68,Check,pending,LATAM,,0.0323,2272.12,0.25,23573.29,Invoice-96263,URGENT
+TXN #0145,02/19/2023,   XYZ Enterprises   ,C008,hardware,Products,47166,USD,1,47166.0,Credit Card,Pending,APAC,mike wilson,0.1232,7074.9,0.1,49524.3,INV33226,Follow up needed
+TXN #0028,2023/01/20,Bob Johnson,C004,Hardware,Products,35780.9987,GBP,1.27,45441.87,Check,Refunded,Asia-Pacific,,0.076,5367.15,0.02,40432.53,INV83917,Partial payment
+,TXN-0110,10-01-2023,xyz enterprises,C008,data storage,products,-34660.7,USD,1.0,-34660.7,Cash,CANCELLED,Asia Pacific,LISA CHEN,0.1244,-1733.03,0.15,,INV76722
+TXN0163,11.19.2023,john smith,C001,Consulting Services,services,46644.0517,USD,1,46644.05,ACH,Canceled,EU,Lisa Chen,10.4%,3731.52,0.26,38248.12,INV-90843,One-time
+TXN #0164,2023-01-27,Jane  Doe,C002,CONSULTING,Services,38763,EUR,1.08,41864.04,Check,failed,Asia Pacific,Lisa Chen,0.0701,5814.45,0.13,39538.26,INV-88209,DISPUTED
+TXN0058,05.18.2023,Jane Doe,C002,Software License,Software,3957.4159,GBP,1.27,5025.92,CC,Pending,Asia-Pacific,Unknown,0.1051,,0.03,,10211,
+TXN #0022,2023/03/07,JOHN SMITH,C001,software license,SOFTWARE,47588,EUR,1.08,51395.04,CHECK,Cancelled,LATAM,Anna Schmidt,0.1084,9517.6,0.04,55202.08,INV-10755,One-time
+TXN0181,2023/03/19,Tech Solutions Ltd,C005,Software License,Software,24788.0146,JPY,0.0067,166.08,Wire Transfer,Pending,Latin America,Unknown,0.1221,3718.2,0.25,22309.21,INV-38369,Discount applied
+0155,07-04-2023,Jane  Doe,C002,CONSULTING,Services,18453.2513,GBP,1.27,23435.63,Cheque,CANCELLED,Asia-Pacific,TBD,0.1373,2767.99,0.15,18453.25,Invoice-79112,See attached
+txn0043,04/09/2023,Maria Garcia,C007,Consulting,Services,2738.86,USD,1,2738.86,PAYPAL,Pending,EUROPE,TBD,12.9%,136.94,0.27,2136.31,INV-95420,OK
+0049,02-03-2023,Tech Solutions,C005,Data Storage,Products,29598.7575,EUR,1.08,31966.66,CC,Pending,N. America,Mike Wilson,0.0377,0.0,0.17,24566.97,#INV-37991,
+0038,2023-06-19,Jane Doe,C002,H/W,Products,29603,USD,1,29603.0,Check,Completed,NORTH AMERICA,Mike Wilson,0.1311,2368.24,0.18,26642.7,Invoice-97280,Rush order
+TXN #0143,13-05-2023,XYZ Enterprises,,Data Storage,Products,42161.8323$,JPY,0.0067,,ACH,PENDING,Asia-Pacific,LISA CHEN,0.1039,,0.01,,#INV-21674,One-time
+TXN-0196,09/23/2023,Acme Corporation,C003,hardware,Products,10185.85,EUR,1.08,11000.72,PAYPAL,Cancelled,Europe,Anna Schmidt,0.0873,0.0,0.1,9167.27,#INV-57681,Late payment
+txn0152,24-12-2023,JOHN SMITH,C001,support contract,services,11320,GBP,1.27,14376.4,Wire Transfer,failed,NORTH AMERICA,mike wilson,,0.0,0.28,8150.4,Invoice-39587,Rush order
+TXN #0023,14/12/2023,Sarah Connor,C006,support contract,services,"$32,704.03",GBP,1.27,,Wire Transfer,Refunded,NORTH AMERICA,Anna Schmidt,0.0422,,0.02,,#INV-39134,
+TXN #0082,28-07-2023,JOHN SMITH,C001,Training,Services,11897.85,GBP,1.27,15110.27,Credit Card,Failed,EUROPE,TBD,0.0862,0.0,0.02,11659.89,INV71853,Discount applied
+0068,2023-01-25,Acme Corp,C003,support contract,services,38947,CAD,0.74,28820.78,Check,Completed,Asia-Pacific,Anna Schmidt,0.0743,5842.05,0.01,44399.58,#INV-98669,disputed
+TXN #0077,"May 18, 2023",ACME CORP.,C003,Data Storage,Products,"$8,131.89",CAD,0.74,,Check,PENDING,Europe,,0.0878,,0.21,,Invoice-86857,URGENT
+TXN-0001,10-16-2023,JOHN SMITH,C001,Consulting Services,services,15863.28,CAD,0.74,11738.83,PAYPAL,PENDING,EUROPE,,0.0462,0.0,0.3,11104.3,#INV-76220,DISPUTED
+0044,10/25/2023,XYZ Enterprises,C008,Cloud Subscription,Software,14870.41,EUR,1.08,16060.04,PayPal,Complete,NORTH AMERICA,Lisa Chen,0.0985,1487.04,0.25,12639.85,inv-74318,
+txn0029,15/09/2023,JOHN SMITH,C001,data storage,products,1101,CAD,0.74,814.74,ACH,Failed,LATAM,LISA CHEN,0.0639,110.1,0.25,935.85,79009,Credit memo
+0131,2023/10/01,Acme Corp,,Cloud Subscription,Software,17509.27,GBP,1.27,22236.77,Cash,PENDING,EU,Mike Wilson,0.1074,1400.74,0.17,15933.43,inv-99979,Recurring
+txn0180,2023-12-13,john smith,C001,support contract,services,25139.56,CAD,0.74,18603.27,Cheque,failed,North America,Unknown,0.0883,2011.16,0.15,23379.79,INV65212,
+0167,05.18.2023,xyz enterprises,C008,Cloud Subscription,Software,2224,GBP,1.27,2824.48,wire transfer,Failed,EU,,0.0458,444.8,0.12,2401.92,86369,
+0188,01-31-2023,Tech Solutions,,H/W,Products,14848,USD,1,14848.0,PAYPAL,failed,NORTH AMERICA,LISA CHEN,0.1291,1484.8,0.27,12323.84,72546,One-time
+TXN #0200,2023-08-04,ACME CORP.,C003,Consulting,Services,13252.065,USD,1,13252.07,Check,Completed,APAC,,0.1215,0.0,0.02,12987.02,inv-48128,disputed
+TXN #0175,07.13.2023,john smith,C001,Training,Services,17235.58,CAD,0.74,12754.33,Check,failed,Asia Pacific,mike wilson,0.1109,861.78,0.16,15339.67,inv-31338,Credit memo
+0065,2023/04/02,John Smith,C001,Hardware,Products,23612.577,GBP,1.27,29987.97,Check,Cancelled,APAC,Mike Wilson,0.1313,2361.26,0.09,23848.71,#INV-59219,
+TXN-0182,12.20.2023,John Smith,C001,software license,SOFTWARE,43074.17,USD,,,wire transfer,Failed,LATAM,Unknown,0.0883,6461.13,0.08,46089.37,#INV-57670,
+TXN-0019,2023-12-28,XYZ Enterprises,C008,Hardware,Products,22929,EUR,1.08,24763.32,credit card,Complete,LATAM,Carlos Mendez,0.1187,3439.35,0%,26368.35,INV-90888,
+txn0137,27/09/2023,Sarah Connor,C006,Support Contract,Services,43415.4115,USD,1,43415.41,Wire Transfer,Pending,EUROPE,,0.1312,2170.77,0.12,40376.33,inv-92399,
+txn0053,2023-10-21,Tech Solutions Ltd,C005,Training,Services,38144.0125,JPY,0.0067,255.56,CHECK,Cancelled,N. America,mike wilson,0.0909,5721.6,0.06,41576.97,Invoice-15400,
+TXN0016,02-05-2023,Jane Doe,C002,Consulting Services,services,12059.91,JPY,0.0067,80.8,Cheque,pending,LATAM,Carlos Mendez,0.0709,1808.99,0.19,11577.52,inv-38667,
+0020,08-01-2023,Robert Johnson,C004,Support Contract,Services,40708,USD,1,40708.0,Wire Transfer,Refunded,Asia Pacific,Tom Brown,0.0818,0.0,0.08,37451.36,INV-42041,disputed
+TXN #0087,"December 24, 2023",Tech Solutions Ltd,C005,Support Contract,Services,38503.5252,JPY,0.0067,257.97,Credit Card,Canceled,EU,mike wilson,0.1381,3850.35,0.09,38888.56,inv-44365,disputed
+TXN0039,09-15-2023,Acme Corp,C003,hardware,Products,9945.88,USD,1,9945.88,Check,PENDING,N. America,Carlos Mendez,0.0352,795.67,0.29,7857.24,Invoice-76003,
+TXN0189,13/25/2023,John Smith,C001,Software License,Software,3973,EUR,1.08,4290.84,PayPal,Failed,North America,Tom Brown,0.0855,0.0,0.08,3655.16,inv-55364,
+0075,05/31/2023,Maria Garcia,,Hardware,Products,14483,USD,1,14483.0,Credit Card,Cancelled,EUROPE,mike wilson,0.118,2172.45,0.03,16220.96,INV-32073,Credit memo
+0037,13/25/2023,Sarah Connor,C006,Data Storage,Products,45038,USD,1,45038.0,Credit Card,COMPLETED,NORTH AMERICA,LISA CHEN,0.1329,9007.6,0.02,53144.84,Invoice-19718,One-time
+TXN #0087,11/08/2023,Jane  Doe,C002,H/W,Products,8342.4442,USD,1,8342.44,CC,Pending,APAC,Anna Schmidt,0.0452,0.0,5%,8342.44,73635,disputed
+TXN0174,07/03/2023,Jane Doe,C002,hardware,Products,21883.46,EUR,1.08,23634.14,CC,Failed,EU,Carlos Mendez,0.1302,,0.13,19038.61,INV24045,See attached
+TXN-0187,09/05/2023,Jane Doe,C002,data storage,products,27989.74,USD,1,27989.74,ACH,Cancelled,Asia-Pacific,Anna Schmidt,0.115,5597.95,0.21,27709.84,#INV-46525,See attached
+TXN-0095,11-01-2023,john smith,C001,Training,Services,26721.95,USD,1,26721.95,Credit Card,pending,Asia-Pacific,Mike Wilson,0.0563,2672.2,0.06,27790.83,INV72459,
+TXN #0012,"August 31, 2023",xyz enterprises,C008,CONSULTING,Services,25543,CAD,0.74,18901.82,Cheque,COMPLETED,Latin America,,0.0749,5108.6,0.13,27331.01,INV-90483,
+TXN #0160,10.14.2023,Jane Doe,C002,software license,SOFTWARE,27469.47,CAD,0.74,20327.41,PAYPAL,failed,Asia-Pacific,Unknown,0.1076,1373.47,0.16,24447.82,INV38660,
+TXN #0060,04.29.2023,Acme Corporation,C003,H/W,Products,13027,USD,1,13027.0,credit card,CANCELLED,EUROPE,Lisa Chen,0.0878,2605.4,0.25,12375.65,Invoice-42024,Partial payment
+txn0146,2023/12/21,john smith,C001,Consulting,Services,34502.9517,USD,1,34502.95,wire transfer,failed,North America,,0.0421,6900.59,0.08,38643.31,INV-77082,Recurring
+txn0086,13/25/2023,Sarah Connor,C006,Software License,Software,,USD,1,,PayPal,Refunded,APAC,Tom Brown,11.9%,,0.1,,inv-96778,Partial payment
+TXN0124,28/08/2023,JOHN SMITH,C001,Software License,Software,42857,USD,1,42857.0,PayPal,failed,Asia Pacific,mike wilson,0.1206,8571.4,0.14,45428.42,64333,Discount applied
+TXN0093,11/12/2023,Jane Doe,C002,Data Storage,Products,21802.64,GBP,1.27,27689.35,Credit Card,Completed,LATAM,mike wilson,0.0349,1090.13,0.1,20712.51,Invoice-75223,DISPUTED
+TXN-0142,2023/01/25,   Acme Corporation   ,C003,Hardware,Products,28840.7497,GBP,1.27,36627.75,PayPal,Canceled,North America,Tom Brown,0.0421,,0.3,20188.52,INV-12788,
+TXN #0051,06/14/2023,xyz enterprises,C008,Cloud Subscription,Software,23406,GBP,1.27,29725.62,Credit Card,Canceled,Asia-Pacific,Lisa Chen,0.0624,4681.2,0.04,27150.96,inv-12710,One-time
+TXN #0108,08/13/2023,   Acme Corp   ,C003,software license,SOFTWARE,29171.8648,JPY,0.0067,195.45,CHECK,Canceled,NORTH AMERICA,Carlos Mendez,0.0999,5834.37,0.1,32089.05,INV-51274,
+,,,,,,,,,,,,,,,,,,,
+txn0059,10/18/2023,Bob Johnson,C004,Hardware,Products,18780.7657,GBP,1.27,23851.57,wire transfer,CANCELLED,N. America,mike wilson,0.0539,2817.11,0,21597.88,INV-43288,disputed
+0057,13/25/2023,JOHN SMITH,C001,Cloud Subscription,Software,38717.1287,EUR,1.08,41814.5,Cheque,failed,Europe,Mike Wilson,0.1149,0.0,0.22,,INV-54880,Rush order
+TXN0102,2023-02-19,Acme Corp,C003,Software License,Software,30672,GBP,1.27,38953.44,credit card,failed,North America,Unknown,0.0349,3067.2,2%,33739.2,66238,
+txn0030,2023/11/12,Maria Garcia,C007,hardware,Products,32793.71,GBP,1.27,41648.01,CHECK,Failed,EUROPE,Lisa Chen,0.0848,1639.69,0.06,32465.78,INV58642,URGENT
+TXN #0080,"November 09, 2023",Acme Corp,C003,support contract,services,29529.7744,EUR,1.08,31892.16,Cash,Canceled,Asia Pacific,TBD,0.1465,2362.38,0.07,29825.07,#INV-56759,
+,,,,,,,,,,,,,,,,,,,
+TXN-0186,06/12/2023,Tech Solutions,C005,Support Contract,Services,45013,GBP,1.27,57166.51,Cheque,pending,Europe,Tom Brown,0.1164,9002.6,0.12,,Invoice-76598,Partial payment
+TXN #0147,2023/10/25,Tech Solutions,C005,Software License,Software,1074,EUR,1.08,1159.92,PAYPAL,Refunded,North America,mike wilson,0.1126,214.8,0.19,1084.74,INV47750,Partial payment
+TXN #0194,"October 30, 2023",ACME CORP.,C003,Software license,Software,32607,USD,1,32607.0,wire transfer,Cancelled,EU,Anna Schmidt,0.1063,4891.05,25%,37498.05,86716,OK
+0109,2023-07-13,Sarah Connor,,software license,SOFTWARE,38526.56,USD,1,38526.56,CHECK,Canceled,LATAM,Unknown,0.1046,5778.98,0.19,36985.49,Invoice-16225,
+TXN #0076,05/24/2023,John Smith,C001,Data Storage,Products,-39824,USD,1,-39824.0,Wire Transfer,COMPLETED,North America,LISA CHEN,0.0903,0.0,0.15,-33850.4,#INV-21121,Discount applied
+TXN0035,"February 06, 2023",Maria Garcia,C007,Hardware,Products,31500.84,USD,1,31500.84,Cheque,COMPLETED,Asia-Pacific,Carlos Mendez,0.0486,6300.17,0.12,34020.91,30811,
+TXN0074,02-04-2023,Jane  Doe,C002,hardware,Products,24756,USD,1,24756.0,ACH,Refunded,EUROPE,,0.0835,4951.2,0.03,,INV-36698,VIP client
+TXN0047,10/11/2023,Tech Solutions Ltd,C005,software license,SOFTWARE,26382,JPY,0.0067,176.76,CC,failed,NORTH AMERICA,mike wilson,0.1173,1319.1,0.26,20841.78,inv-85455,One-time
+TXN0031,09/07/2023,Acme Corporation,C003,Support Contract,Services,43454,GBP,1.27,55186.58,Cheque,Cancelled,Asia Pacific,,0.0946,0.0,0.21,34328.66,INV83465,Recurring
+0153,09.04.2023,John Smith,C001,Cloud Subscription,Software,42122,CAD,0.74,31170.28,wire transfer,failed,Latin America,Carlos Mendez,0.1039,0.0,0.1,37909.8,inv-29726,OK
+TXN #0120,03.31.2023,JOHN SMITH,C001,Data Storage,Products,22080.6191,EUR,1.08,23847.07,wire transfer,COMPLETED,EU,,0.1112,1766.45,0.1,21639.01,#INV-88979,
+txn0129,10/30/2023,xyz enterprises,C008,Data Storage,Products,5242.6628,GBP,1.27,6658.18,Credit Card,CANCELLED,Asia-Pacific,,0.1199,1048.53,0.21,5190.23,#INV-29865,Follow up needed
+TXN #0122,2023-07-09,xyz enterprises,C008,Training,Services,37237.2291,USD,1,37237.23,credit card,Complete,Latin America,TBD,0.0873,2978.98,0.15,34630.62,#INV-37945,
+txn0053,2023-10-21,Tech Solutions Ltd,C005,Training,Services,38144.0125,JPY,0.0067,255.56,CHECK,Cancelled,N. America,mike wilson,0.0909,5721.6,0.06,41576.97,Invoice-15400,
+TXN #0055,"August 08, 2023",Acme Corp,C003,Training,Services,25054.63,USD,1,25054.63,credit card,failed,LATAM,Anna Schmidt,0.0492,2004.37,0.06,,inv-68244,URGENT
+txn0101,06/28/2023,Tech Solutions Ltd,C005,Hardware,Products,28697.95,GBP,1.27,36446.4,credit card,Canceled,LATAM,Unknown,0.0848,5739.59,4%,34437.54,inv-15985,Discount applied
+TXN0072,2023-05-19,John Smith,C001,support contract,services,11043.4633,GBP,1.27,14025.2,PAYPAL,PENDING,North America,TBD,0.0542,0.0,0.12,9718.25,INV94368,DISPUTED
+TXN #0024,2023/12/02,Tech Solutions,C005,support contract,services,45528.73,USD,1,45528.73,ACH,failed,Latin America,,0.0511,9105.75,0.14,48260.46,#INV-89761,URGENT
+TXN-0091,03/17/2023,Bob Johnson,C004,software license,SOFTWARE,44779.5377,CAD,0.74,33136.86,PAYPAL,Pending,EU,Unknown,0.058,8955.91,0.02,52839.86,INV-70422,Recurring
+TXN #0171,13/25/2023,Maria Garcia,C007,Support Contract,Services,44276.03,USD,1,44276.03,Wire Transfer,CANCELLED,EU,mike wilson,0.1377,2213.8,6%,46489.83,inv-55146,Recurring
+TXN0035,24-10-2023,Jane  Doe,C002,Support Contract,Services,38799.4314,EUR,1.08,41903.39,CHECK,pending,NORTH AMERICA,,0.0519,0.0,0.17,32203.53,INV34775,
+,txn0177,12/13/2023,JOHN SMITH,C001,Data Storage,Products,30561,EUR,1.08,33005.88,credit card,Complete,NORTH AMERICA,Tom Brown,0.0394,1528.05,0.08,29644.17,Invoice-55596
+txn0193,2023/10/20,Acme Corporation,C003,CONSULTING,Services,40163.4007,USD,1,40163.4,CHECK,pending,Europe,Lisa Chen,0.0642,4016.34,0.27,33335.62,Invoice-32194,
+txn0050,09/11/2023,ACME CORP.,C003,Data Storage,Products,35467.52,USD,1,35467.52,CC,Cancelled,LATAM,Unknown,0.0865,2837.4,0.3,27664.66,#INV-21891,One-time
+TXN0138,"September 04, 2023",Jane  Doe,C002,H/W,Products,48656,GBP,1.27,61793.12,CC,CANCELLED,North America,TBD,0.0584,9731.2,0.01,57900.64,#INV-42398,One-time
+0098,2023/03/11,john smith,C001,hardware,Products,33424.3888,JPY,0.0067,223.94,Wire Transfer,Pending,LATAM,,0.0904,0.0,0.1,30081.95,INV-74090,disputed
+TXN #0004,"February 01, 2023",Jane Doe,C002,Consulting Services,services,4679.4914,USD,1,4679.49,Check,pending,EUROPE,LISA CHEN,0.0951,374.36,0,5053.85,INV98908,
+TXN #0154,"August 12, 2023",Jane Doe,C002,Training,Services,30672.0$,GBP,1.27,,ACH,Completed,APAC,Tom Brown,0.0567,,0.19,,76001,Late payment
+TXN #0062,12/08/2023,JOHN SMITH,C001,Software license,Software,46402,JPY,0.0067,310.89,Cheque,pending,NORTH AMERICA,TBD,0.0536,9280.4,0.04,53826.32,INV-27976,
+,,,,,,,,,,,,,,,,,,,
+0064,2023/02/10,XYZ Enterprises,C008,Consulting,Services,7358.7051,USD,1,7358.71,Credit Card,Cancelled,Latin America,,0.1147,367.94,0.3,5519.03,14873,Late payment
+TXN #0171,26/02/2023,Maria Garcia,C007,hardware,Products,25528.9156,GBP,1.27,32421.72,credit card,Refunded,North America,Mike Wilson,,3829.34,27%,29358.26,inv-29596,
+TXN0156,02-08-2023,Robert Johnson,C004,Hardware,Products,25791.8681,JPY,0.0067,172.81,CC,Refunded,EUROPE,,0.0357,2579.19,0.25,21923.09,INV42064,DISPUTED
+txn0083,06.12.2023,john smith,C001,Software License,Software,-47789,CAD,0.74,-35363.86,Check,Failed,Asia-Pacific,Anna Schmidt,0.0326,-4778.9,0.29,-38709.09,78935,URGENT
+TXN0114,04/05/2023,ACME CORP.,C003,Data Storage,Products,48678,USD,1,48678.0,Check,Canceled,EU,Lisa Chen,10.2%,0.0,0.22,37968.84,Invoice-28358,Credit memo
+TXN-0178,05/02/2023,Jane Doe,,Cloud Subscription,Software,45727.71,USD,1,45727.71,Check,Complete,APAC,LISA CHEN,0.1183,2286.39,0.28,35210.34,Invoice-57243,Recurring
+TXN #0191,2023/08/02,Jane Doe,C002,Cloud Subscription,Software,43673,USD,1,43673.0,Wire Transfer,PENDING,North America,LISA CHEN,0.1447,8734.6,23%,52407.6,inv-44260,See attached
+TXN #0115,04.18.2023,Jane  Doe,C002,Training,Services,12492.13,USD,1,12492.13,PayPal,Completed,Asia-Pacific,,0.0823,2498.43,0.06,14241.03,inv-88899,Follow up needed
+,,,,,,,,,,,,,,,,,,,
+0144,2023-03-31,ACME CORP.,C003,Hardware,Products,6691.3219,USD,1,6691.32,PayPal,CANCELLED,LATAM,Anna Schmidt,0.0459,669.13,0.11,6624.41,Invoice-59626,
+TXN0176,06.29.2023,Robert Johnson,C004,data storage,products,11340,GBP,1.27,14401.8,ACH,Complete,EUROPE,Carlos Mendez,0.0355,1701.0,30%,13041.0,Invoice-24143,Rush order
+TXN #0100,23-12-2023,Acme Corporation,C003,Data Storage,Products,16633,EUR,1.08,17963.64,Wire Transfer,Cancelled,Latin America,mike wilson,0.0321,1663.3,0.12,16300.34,INV39071,DISPUTED
+TXN #0085,"October 13, 2023",JOHN SMITH,C001,Hardware,Products,42188.55,GBP,1.27,53579.46,Cash,CANCELLED,Asia Pacific,mike wilson,0.0535,6328.28,0.24,38391.58,34665,Follow up needed
+0112,29/09/2023,Maria Garcia,C007,Support Contract,Services,39369.8,GBP,1.27,49999.65,Cash,failed,North America,TBD,4.2%,0.0,0.23,30314.75,67613,Recurring
+txn0069,2023/07/17,john smith,C001,Software license,Software,10133,EUR,1.08,10943.64,Credit Card,Complete,N. America,Lisa Chen,0.1153,810.64,0.09,10031.67,#INV-29865,
+TXN #0134,24/08/2023,Jane  Doe,C002,H/W,Products,27713.3508,USD,1,27713.35,Cheque,Canceled,North America,Tom Brown,0.0967,0.0,0.12,24387.75,73198,Late payment
+txn0161,"February 16, 2023",Bob Johnson,C004,H/W,Products,25646.33,EUR,1.08,27698.04,Check,Cancelled,Asia-Pacific,Tom Brown,0.0875,2564.63,0.02,27698.03,10290,
+TXN0071,2023/08/24,XYZ Enterprises,C008,Hardware,Products,46304,GBP,1.27,58806.08,Credit Card,Failed,Latin America,,0.0576,2315.2,0.13,42599.68,INV-23791,URGENT
+0199,15-02-2023,john smith,C001,support contract,services,18273.97,USD,1,18273.97,CC,PENDING,Latin America,mike wilson,0.1308,3654.79,0.13,19553.14,24050,
+0041,08.31.2023,xyz enterprises,C008,H/W,Products,21360,CAD,0.74,15806.4,PAYPAL,Refunded,Asia-Pacific,Unknown,0.0957,4272.0,0.14,22641.6,INV-81697,Discount applied
+0185,10/09/2023,Tech Solutions,C005,Consulting,Services,42351.6774$,EUR,1.08,,Cash,failed,Latin America,Anna Schmidt,8.9%,,0.02,,INV-89918,
+TXN0162,08-19-2023,ACME CORP.,C003,Cloud Subscription,Software,9600,GBP,1.27,12192.0,Credit Card,CANCELLED,EU,TBD,0.0433,0.0,0.19,7776.0,inv-45501,Credit memo
+txn0018,06-22-2023,JOHN SMITH,C001,Training,Services,3297,CAD,0.74,2439.78,Cheque,Cancelled,Europe,TBD,10.8%,263.76,0.12,3165.12,Invoice-15096,disputed
+TXN0157,27/10/2023,Tech Solutions Ltd,C005,Consulting Services,services,267.0$,USD,1,,PAYPAL,Canceled,Latin America,TBD,,,0.02,,INV10179,DISPUTED
+0070,04-09-2023,Jane  Doe,C002,Support Contract,Services,"$39,383.42",EUR,1.08,,credit card,Completed,Asia Pacific,Unknown,0.058,,0.23,,Invoice-72704,Late payment
+0165,05-16-2023,Tech Solutions,C005,Support Contract,Services,16914.04,JPY,0.0067,113.32,PayPal,Completed,Asia-Pacific,Tom Brown,0.0884,0.0,0.3,11839.83,59817,
+TXN0140,24/03/2023,Jane  Doe,C002,Data Storage,Products,21743.2908,USD,1,21743.29,PAYPAL,Completed,EU,Tom Brown,11.8%,3261.49,0.19,20873.56,#INV-51343,URGENT
+TXN-0197,2023/08/22,Bob Johnson,C004,Consulting,Services,37433,USD,1,37433.0,Check,COMPLETED,EUROPE,TBD,0.035,7486.6,0.26,35187.02,inv-74397,URGENT
+TXN0184,2023-01-26,Acme Corp,C003,hardware,Products,14411.6172,JPY,,,Wire Transfer,Cancelled,Latin America,mike wilson,0.1437,1441.16,0.23,12538.11,#INV-69755,Credit memo
+TXN #0195,10.24.2023,Sarah Connor,C006,H/W,Products,14743.48,USD,1,14743.48,credit card,pending,EUROPE,,0.0939,2948.7,0.06,16807.57,47528,
+TXN #0198,12.25.2023,Acme Corporation,C003,Cloud Subscription,Software,25448,GBP,1.27,32318.96,Check,Refunded,Asia-Pacific,Mike Wilson,0.0905,2544.8,0.06,,INV-72500,Partial payment
+TXN0125,2023/10/10,   ACME CORP.   ,C003,Consulting,Services,49904.5265,JPY,0.0067,334.36,CC,Failed,APAC,Mike Wilson,0.0857,4990.45,0.03,53397.84,inv-85650,Discount applied
+TXN #0096,11.12.2023,ACME CORP.,C003,Software License,Software,44991.09,USD,1,44991.09,Wire Transfer,CANCELLED,Europe,Mike Wilson,0.0422,3599.29,0.2,39592.16,Invoice-61121,Discount applied
+TXN0003,31-10-2023,Jane  Doe,C002,Software license,Software,37056.1603,JPY,0.0067,248.28,ACH,Canceled,North America,Unknown,13.8%,3705.62,0.17,34462.23,INV21406,Follow up needed
+0042,29/10/2023,Jane  Doe,C002,Cloud Subscription,Software,18860,CAD,0.74,13956.4,PayPal,COMPLETED,APAC,Carlos Mendez,0.1276,1886.0,0.12,18482.8,inv-81848,One-time
+TXN-0159,,Sarah Connor,C006,Cloud Subscription,Software,28237.86,CAD,,,Credit Card,PENDING,Europe,Anna Schmidt,0.0705,2259.03,0.04,29367.38,INV-98866,
+TXN0081,2023/06/28,Tech Solutions,C005,Cloud Subscription,Software,2326.63,EUR,1.08,2512.76,CC,Completed,North America,,0.0726,0.0,0.22,1814.77,Invoice-40980,See attached
+txn0179,07-05-2023,Tech Solutions Ltd,C005,Consulting Services,services,18631.91,GBP,1.27,23662.53,wire transfer,Failed,NORTH AMERICA,,0.0885,3726.38,0.05,21426.69,50255,VIP client
+txn0123,08.25.2023,ACME CORP.,C003,Training,Services,28584,EUR,,,CC,Pending,Asia Pacific,Unknown,0.0494,2286.72,0.17,26011.44,INV63088,Late payment
+,TXN-0111,04/26/2023,Sarah Connor,,Cloud Subscription,Software,12452,GBP,1.27,15814.04,PAYPAL,Completed,Asia Pacific,Carlos Mendez,0.1178,0,0.04,11953.92,INV50607
+TXN-0027,26/12/2023,Jane Doe,C002,Support Contract,Services,45671.85,EUR,1.08,49325.6,Check,Complete,N. America,TBD,0.1474,2283.59,0.14,41561.38,#INV-53067,Rush order
+txn0069,2023/07/17,john smith,C001,Software license,Software,10133,EUR,1.08,10943.64,Credit Card,Complete,N. America,Lisa Chen,0.1153,810.64,0.09,10031.67,#INV-29865,
+TXN-0052,09-04-2023,Tech Solutions Ltd,C005,Consulting Services,services,6990.09,EUR,1.08,7549.3,credit card,Completed,APAC,Carlos Mendez,0.0473,559.21,0.22,6011.48,inv-27700,disputed
+txn0026,10/05/2023,Sarah Connor,C006,Support Contract,Services,6913.07$,EUR,1.08,,PAYPAL,Failed,Europe,Mike Wilson,0.1128,,0.07,,INV-11758,
+0132,02/10/2023,Robert Johnson,C004,Data Storage,Products,15256.17,EUR,1.08,16476.66,credit card,Canceled,Asia-Pacific,,0.077,1220.49,0.02,16171.54,INV94943,Credit memo
+TXN #0151,10.16.2023,xyz enterprises,C008,Cloud Subscription,Software,18610,CAD,0.74,13771.4,Cash,Completed,North America,Tom Brown,0.072,0.0,0.2,14888.0,INV-17581,Late payment
+0033,2023-02-01,Robert Johnson,C004,support contract,services,39391.19,CAD,0.74,29149.48,ACH,Failed,North America,TBD,0.1475,0.0,0.28,28361.66,inv-53920,
+txn0010,28/04/2023,Tech Solutions,C005,Data Storage,Products,32173,USD,1,32173.0,PayPal,Complete,North America,Lisa Chen,0.0556,0.0,0.09,29277.43,INV-66563,Follow up needed
+txn0170,"July 08, 2023",Jane Doe,C002,Cloud Subscription,Software,16671,USD,1,16671.0,Credit Card,pending,EUROPE,,0.1022,1667.1,0.17,15504.03,#INV-60998,See attached
+TXN #0066,20/10/2023,Sarah Connor,C006,Software license,Software,7798,USD,1,7798.0,Credit Card,COMPLETED,NORTH AMERICA,mike wilson,0.0869,389.9,0.07,7642.04,INV53680,Credit memo
+TXN-0105,12/24/2023,XYZ Enterprises,C008,Support Contract,Services,36675,EUR,1.08,39609.0,ACH,Failed,Europe,Tom Brown,0.0464,0.0,0.16,30807.0,#INV-16408,
+txn0067,06-11-2023,Robert Johnson,C004,Hardware,Products,7905.01,CAD,0.74,5849.71,Cash,Completed,EUROPE,LISA CHEN,0.0354,1581.0,16%,9486.01,79890,Recurring
+0032,17-11-2023,Sarah Connor,C006,Hardware,Products,40797.24,EUR,,,credit card,Pending,EU,mike wilson,0.083,4079.72,8%,44876.96,#INV-74877,See attached
+TXN-0183,11-26-2023,XYZ Enterprises,C008,hardware,Products,26306.6386,GBP,1.27,33409.43,Check,Pending,North America,Lisa Chen,0.1258,2630.66,0.11,26043.57,Invoice-12833,
+txn0009,,Acme Corporation,C003,support contract,services,12032,USD,1,12032.0,wire transfer,CANCELLED,EUROPE,Unknown,0.1299,2406.4,0.27,11189.76,#INV-65259,
+txn0126,2023-12-08,JOHN SMITH,C001,software license,SOFTWARE,21757,USD,1,21757.0,PAYPAL,CANCELLED,N. America,TBD,13.5%,1087.85,0.27,16970.46,#INV-51462,
+TXN0046,2023-07-11,john smith,C001,data storage,products,1864,USD,1,1864.0,Check,Completed,EU,Lisa Chen,0.1171,186.4,0.1,1864.0,INV30932,
+txn0029,15/09/2023,JOHN SMITH,C001,data storage,products,1101,CAD,0.74,814.74,ACH,Failed,LATAM,LISA CHEN,0.0639,110.1,0.25,935.85,79009,Credit memo
+TXN0007,,ACME CORP.,C003,CONSULTING,Services,25249,GBP,1.27,32066.23,wire transfer,Complete,Latin America,Anna Schmidt,0.1167,2019.92,0.12,24239.04,INV-97156,
+0103,01-19-2023,xyz enterprises,C008,H/W,Products,48382.78,EUR,1.08,52253.4,PayPal,Failed,Latin America,,0.093,0.0,0.22,37738.57,INV46288,Credit memo
+txn0136,06-11-2023,john smith,C001,H/W,Products,35688.7702,USD,,,CHECK,PENDING,NORTH AMERICA,Lisa Chen,0.0935,5353.32,0.07,38543.88,Invoice-53064,OK
+TXN-0166,2023/07/04,Robert Johnson,C004,Data Storage,Products,4957,USD,1,4957.0,Credit Card,Canceled,Europe,Lisa Chen,0.0444,991.4,0.04,5750.12,INV-84666,Discount applied
+txn0011,2023-11-23,Maria Garcia,C007,Support Contract,Services,44497,EUR,1.08,48056.76,wire transfer,Cancelled,N. America,Lisa Chen,0.1261,3559.76,0.03,46721.85,#INV-62264,URGENT
+TXN0192,31-01-2023,Tech Solutions Ltd,C005,software license,SOFTWARE,4121,EUR,1.08,4450.68,ACH,Pending,N. America,,10.0%,824.2,0.2,4121.0,#INV-38301,
+0045,02/08/2023,Sarah Connor,C006,Hardware,Products,26831.02,CAD,0.74,19854.95,Cash,COMPLETED,Asia-Pacific,,0.108,2683.1,0.15,25489.47,INV13783,Recurring
+TXN #0113,12/07/2023,Acme Corp,C003,H/W,Products,40693.7,GBP,1.27,51681.0,Wire Transfer,Refunded,EU,Tom Brown,0.0518,4069.37,0.09,41100.64,INV16723,OK
+TXN-0054,11/18/2023,Jane Doe,C002,Support Contract,Services,12903.66$,CAD,0.74,,ACH,Cancelled,EU,Lisa Chen,0.0317,,0.29,,Invoice-38068,URGENT
+txn0141,05-31-2023,Sarah Connor,C006,Consulting Services,services,42761.71,CAD,0.74,31643.67,Check,pending,LATAM,Lisa Chen,0.0786,6414.26,0.29,36775.07,63038,VIP client
+TXN-0106,11/11/2023,xyz enterprises,C008,Data Storage,Products,28356,GBP,1.27,36012.12,CC,Complete,N. America,mike wilson,0.0575,2268.48,0.09,28072.44,11313,One-time
+,,,,,,,,,,,,,,,,,,,
+0167,2023-02-08,Tech Solutions Ltd,C005,Software license,Software,17719.024,CAD,0.74,13112.08,CC,PENDING,N. America,Carlos Mendez,0.0482,1417.52,0.03,18604.97,INV-14619,DISPUTED
+TXN0092,2023-12-21,ACME CORP.,C003,Software license,Software,37748,EUR,1.08,40767.84,Credit Card,COMPLETED,APAC,Lisa Chen,0.1383,0.0,0.04,36238.08,INV-80107,
+TXN-0106,04/01/2023,JOHN SMITH,C001,hardware,Products,16210,GBP,1.27,20586.7,PayPal,PENDING,Latin America,Unknown,0.092,1621.0,0,17831.0,#INV-62551,
+0034,2023-05-31,JOHN SMITH,C001,H/W,Products,28375,JPY,0.0067,190.11,Check,Pending,Asia-Pacific,Carlos Mendez,0.1494,2837.5,0.13,27523.75,#INV-39134,
+TXN #0084,08/06/2023,Tech Solutions Ltd,C005,Cloud Subscription,Software,45645.39,EUR,1.08,49297.02,Wire Transfer,COMPLETED,NORTH AMERICA,Lisa Chen,0.0337,0.0,0.02,44732.48,13693,
+TXN-0158,2023-08-21,john smith,C001,Consulting Services,services,16641,CAD,0.74,12314.34,PayPal,Cancelled,Europe,Lisa Chen,0.1091,0.0,0.23,12813.57,inv-87401,Rush order
+txn0069,2023/07/17,john smith,C001,Software license,Software,10133,EUR,1.08,10943.64,Credit Card,Complete,N. America,Lisa Chen,0.1153,810.64,0.09,10031.67,#INV-29865,
+txn0094,2023/11/14,john smith,C001,Consulting Services,services,5432.3404,EUR,1.08,5866.93,PAYPAL,Cancelled,Europe,Anna Schmidt,0.0855,1086.47,0.2,5432.34,INV91969,See attached
+0150,02-20-2023,Acme Corporation,C003,H/W,Products,29937.2874,CAD,0.74,22153.59,CC,Cancelled,Asia Pacific,Lisa Chen,0.1094,5987.46,0.26,28141.05,INV94510,Partial payment
+TXN-0014,05-04-2023,John Smith,C001,Software license,Software,17747.86,CAD,,,PAYPAL,CANCELLED,Latin America,LISA CHEN,0.1199,0.0,0.12,15618.12,#INV-16099,Credit memo
+TXN-0149,2023/10/13,Bob Johnson,C004,Training,Services,900,USD,1,900.0,credit card,Cancelled,NORTH AMERICA,Unknown,0.1264,45.0,0.1,855.0,Invoice-42685,One-time
+txn0078,13/25/2023,Bob Johnson,C004,Hardware,Products,5340.2669,GBP,1.27,6782.14,CC,Refunded,Latin America,,0.1085,0.0,0.08,4913.05,inv-82448,disputed
+txn0078,01/07/2023,xyz enterprises,C008,data storage,products,28673.5,USD,1,28673.5,PayPal,Completed,Asia Pacific,LISA CHEN,0.0547,,0.02,28100.03,Invoice-17542,Discount applied
+TXN #0056,04-08-2023,XYZ Enterprises,C008,hardware,Products,11830.595,EUR,1.08,12777.04,Check,Completed,EUROPE,,0.0589,946.45,0.24,9937.7,INV80955,
+0104,"September 23, 2023",john smith,C001,Hardware,Products,22115.4519,EUR,1.08,23884.69,PAYPAL,Canceled,LATAM,TBD,0.1143,4423.09,0.04,25653.92,Invoice-58975,Follow up needed
+TXN0128,2023-03-07,Robert Johnson,,Training,Services,10774,CAD,0.74,7972.76,PAYPAL,Completed,LATAM,Mike Wilson,0.0341,0.0,0.11,9588.86,21864,OK
+TXN #0099,2023-02-13,Sarah Connor,,CONSULTING,Services,8533.93,EUR,1.08,9216.64,Cash,Completed,Europe,Lisa Chen,0.1019,1280.09,0.21,8021.89,#INV-59719,
+txn0089,"March 21, 2023",Sarah Connor,C006,Data Storage,Products,19283.7589,EUR,1.08,20826.46,PAYPAL,Pending,Latin America,,0.1139,,0.3,13498.63,#INV-30099,
+0090,2023/12/01,Acme Corporation,C003,Support Contract,Services,10057.2785,USD,1,10057.28,Credit Card,Refunded,Asia-Pacific,Mike Wilson,0.0595,1508.59,0.04,11163.58,INV70117,See attached
+0135,31-12-2023,Acme Corp,C003,data storage,products,3775.2354,JPY,0.0067,25.29,CC,PENDING,EU,Anna Schmidt,0.0338,0.0,0.02,3699.73,#INV-74708,
+txn0173,2023-03-05,Robert Johnson,C004,data storage,products,48922,CAD,0.74,36202.28,Cheque,Cancelled,EU,Carlos Mendez,8.8%,3913.76,1%,52835.76,Invoice-35178,Partial payment
+TXN #0115,2023/07/19,xyz enterprises,C008,Consulting,Services,10272.13,USD,1,10272.13,Check,Canceled,EUROPE,Mike Wilson,0.0795,821.77,0.17,9347.64,inv-80590,VIP client
+TXN0047,2023-04-10,john smith,C001,Software License,Software,20813,JPY,0.0067,139.45,wire transfer,Canceled,EU,TBD,0.0803,1665.04,0.1,20396.74,INV53680,See attached
+TXN0139,16-06-2023,Acme Corp,C003,Consulting,Services,23888.8669,USD,1,23888.87,PayPal,pending,LATAM,Anna Schmidt,0.0811,1911.11,0.28,19111.09,INV-31201,
+0097,05.30.2023,Robert Johnson,C004,Software license,Software,1551,GBP,1.27,1969.77,ACH,Pending,LATAM,,0.0861,232.65,0.08,,#INV-54204,One-time
+TXN-0013,09/09/2023,Bob Johnson,C004,Support Contract,Services,13873,CAD,0.74,10266.02,Check,PENDING,EU,mike wilson,0.0807,0.0,14%,13873.0,Invoice-12566,Credit memo
+txn0008,2023/02/12,XYZ Enterprises,C008,H/W,Products,29395.18,CAD,0.74,21752.43,PayPal,pending,APAC,,0.0465,2939.52,0.08,29983.09,INV50224,Discount applied
+TXN-0002,23-07-2023,   JOHN SMITH   ,C001,Cloud Subscription,Software,25893,JPY,0.0067,173.48,Check,Cancelled,N. America,Anna Schmidt,0.0409,2071.44,0.09,25634.07,Invoice-31107,Rush order
+TXN #0017,09-13-2023,xyz enterprises,C008,software license,SOFTWARE,47669.3368,EUR,1.08,51482.88,CC,Refunded,Asia-Pacific,mike wilson,0.1155,3813.55,0.17,43379.1,INV98338,Late payment
+TXN-0014,,Jane Doe,C002,Training,Services,20945.05,USD,,,Check,Cancelled,APAC,Lisa Chen,0.1343,4189.01,4%,25134.06,INV-55655,Follow up needed
+0127,2023/10/05,Jane Doe,C002,CONSULTING,Services,31850.5314,JPY,0.0067,213.4,Cheque,PENDING,EU,,0.0343,2548.04,0.26,26117.43,Invoice-44705,Follow up needed
+TXN #0062,2023/08/03,Robert Johnson,C004,support contract,services,6919.81,GBP,1.27,8788.16,ACH,COMPLETED,Latin America,,0.0393,1383.96,0.11,7542.59,INV19953,DISPUTED
+TXN0072,2023-05-19,John Smith,C001,support contract,services,11043.4633,GBP,1.27,14025.2,PAYPAL,PENDING,North America,TBD,0.0542,0.0,0.12,9718.25,INV94368,DISPUTED
+TXN #0021,12.30.2023,Jane Doe,C002,support contract,services,19649.45,CAD,0.74,14540.59,credit card,Failed,North America,Lisa Chen,0.1052,982.47,0.24,15916.05,#INV-99515,
+TXN-0130,04/20/2023,john smith,C001,software license,SOFTWARE,21064,EUR,1.08,22749.12,PayPal,failed,LATAM,Mike Wilson,0.1012,0.0,0.22,16429.92,39123,VIP client
+0119,"March 20, 2023",Acme Corp,C003,data storage,products,31374.75,EUR,1.08,33884.73,CHECK,CANCELLED,N. America,,0.1495,4706.21,0.24,28551.02,INV60441,VIP client
+TXN #0066,20/10/2023,Sarah Connor,C006,Software license,Software,7798,USD,1,7798.0,Credit Card,COMPLETED,NORTH AMERICA,mike wilson,0.0869,389.9,0.07,7642.04,INV53680,Credit memo
+TXN-0054,11/18/2023,Jane Doe,C002,Support Contract,Services,12903.66$,CAD,0.74,,ACH,Cancelled,EU,Lisa Chen,0.0317,,0.29,,Invoice-38068,URGENT
+0040,10-10-2023,Tech Solutions,C005,Hardware,Products,35855,USD,1,35855.0,Check,Cancelled,Europe,Tom Brown,0.0811,0.0,0.19,29042.55,24931,See attached
+TXN0121,"September 27, 2023",john smith,C001,Data Storage,Products,22858.8619,USD,1,22858.86,Credit Card,Failed,N. America,TBD,0.0418,1828.71,0.12,21944.51,#INV-57247,Partial payment

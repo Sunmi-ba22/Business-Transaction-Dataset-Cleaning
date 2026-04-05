@@ -1,0 +1,199 @@
+,Transaction_ID,customer name,CUSTOMER_ID,Product,Category,Amount,Currency,Exchange_Rate,Amount_USD,Payment_Method,Status,Region,Sales_Rep,Commission%,Tax,Discount,NET AMOUNT,Invoice#
+0,169,Acme Corp.,C003,Data Storage,Products,29462.0,EUR,1.08,31818.96,Credit Card,Pending,North America,Carlos Mendez,0.0392,4419.3,0.07,31818.96,32566
+1,18,John Smith,C001,Training,Services,3297.0,CAD,0.74,2439.78,Cheque,Cancelled,Europe,Tbd,0.0867,263.76,0.12,3165.12,15096
+2,118,Tech Solutions,C005,Data Storage,Products,11981.0,GBP,1.27,15215.87,Cheque,Completed,Asia Pacific,Lisa Chen,0.1347,0.0,0.03,11621.57,31178
+3,190,Maria Garcia,C007,Training,Services,15901.0,USD,1.0,15901.0,Credit Card,Complete,Europe,Lisa Chen,0.0763,1590.1,0.13,15423.97,45941
+4,25,Xyz Enterprises,C001,Consulting,Services,48941.73,GBP,1.27,62156.0,Cheque,Cancelled,North America,Mike Wilson,0.0643,9788.35,0.22,47962.9,95816
+5,61,Sarah Connor,C006,Hardware,Products,6765.0,GBP,1.27,8591.55,Wire Transfer,Complete,Asia Pacific,Carlos Mendez,0.1133,541.2,0.22,5817.9,64574
+6,133,John Smith,C001,Hardware,Products,744.84,GBP,1.27,945.95,Credit Card,Complete,Europe,Tbd,0.1212,59.59,0.01,796.98,87216
+7,5,John Smith,C001,Support Contract,Services,44054.14,GBP,1.27,55948.76,Check,Cancelled,Europe,Tom Brown,0.1126,4405.41,0.05,46256.84,47347
+8,148,Maria Garcia,C007,Hardware,Products,19155.0,EUR,1.08,20687.4,Wire Transfer,Cancelled,Europe,Lisa Chen,0.1055,3831.0,0.13,20495.85,49438
+9,6,Jane  Doe,C002,Hardware,Products,21150.1,USD,1.0,21150.1,Credit Card,Canceled,Latin America,Carlos Mendez,0.0865,1911.11,0.07,19669.59,73672
+10,73,John Smith,C001,Software License,Software,6665.0,JPY,0.0067,44.66,Cheque,Completed,Asia Pacific,Tbd,0.0564,1333.0,0.04,7731.4,97090
+11,117,Tech Solutions Ltd,C005,Support Contract,Services,28401.555,EUR,1.08,30673.68,Cheque,Pending,Latin America,Lisa Chen,0.0323,2272.12,0.25,23573.29,96263
+12,145,Xyz Enterprises,C008,Hardware,Products,47166.0,USD,1.0,47166.0,Credit Card,Pending,Asia Pacific,Mike Wilson,0.1232,7074.9,0.1,49524.3,33226
+13,28,Bob Johnson,C004,Hardware,Products,35780.9987,GBP,1.27,45441.87,Cheque,Refunded,Asia-Pacific,Lisa Chen,0.076,5367.15,0.02,40432.53,83917
+15,163,John Smith,C001,Consulting Services,Services,46644.0517,USD,1.0,46644.05,Ach,Canceled,Europe,Lisa Chen,0.0867,3731.52,0.26,38248.12,90843
+16,164,Jane  Doe,C002,Consulting,Services,38763.0,EUR,1.08,41864.04,Cheque,Failed,Asia Pacific,Lisa Chen,0.0701,5814.45,0.13,39538.26,88209
+17,58,Jane Doe,C002,Software License,Software,3957.4159,GBP,1.27,5025.92,Credit Card,Pending,Asia-Pacific,Unknown,0.1051,1911.11,0.03,23476.54,10211
+18,22,John Smith,C001,Software License,Software,47588.0,EUR,1.08,51395.04,Check,Cancelled,Latin America,Anna Schmidt,0.1084,9517.6,0.04,55202.08,10755
+19,181,Tech Solutions Ltd,C005,Software License,Software,24788.0146,JPY,0.0067,166.08,Wire Transfer,Pending,Latin America,Unknown,0.1221,3718.2,0.25,22309.21,38369
+20,155,Jane  Doe,C002,Consulting,Services,18453.2513,GBP,1.27,23435.63,Cheque,Cancelled,Asia-Pacific,Tbd,0.1373,2767.99,0.15,18453.25,79112
+21,43,Maria Garcia,C007,Consulting,Services,2738.86,USD,1.0,2738.86,Paypal,Pending,Europe,Tbd,0.0867,136.94,0.27,2136.31,95420
+22,49,Tech Solutions,C005,Data Storage,Products,29598.7575,EUR,1.08,31966.66,Credit Card,Pending,North America,Mike Wilson,0.0377,0.0,0.17,24566.97,37991
+23,38,Jane Doe,C002,H/W,Products,29603.0,USD,1.0,29603.0,Cheque,Completed,North America,Mike Wilson,0.1311,2368.24,0.18,26642.7,97280
+24,143,Xyz Enterprises,C001,Data Storage,Products,42161.8323,JPY,0.0067,21150.1,Ach,Pending,Asia-Pacific,Lisa Chen,0.1039,1911.11,0.01,23476.54,21674
+25,196,Acme Corporation,C003,Hardware,Products,10185.85,EUR,1.08,11000.72,Paypal,Cancelled,Europe,Anna Schmidt,0.0873,0.0,0.1,9167.27,57681
+26,152,John Smith,C001,Support Contract,Services,11320.0,GBP,1.27,14376.4,Wire Transfer,Failed,North America,Mike Wilson,0.0349,0.0,0.28,8150.4,39587
+27,23,Sarah Connor,C006,Support Contract,Services,32704.03,GBP,1.27,21150.1,Wire Transfer,Refunded,North America,Anna Schmidt,0.0422,1911.11,0.02,23476.54,39134
+28,82,John Smith,C001,Training,Services,11897.85,GBP,1.27,15110.27,Credit Card,Failed,Europe,Tbd,0.0862,0.0,0.02,11659.89,71853
+29,68,Acme Corp,C003,Support Contract,Services,38947.0,CAD,0.74,28820.78,Cheque,Completed,Asia-Pacific,Anna Schmidt,0.0743,5842.05,0.01,44399.58,98669
+30,77,Acme Corp.,C003,Data Storage,Products,8131.89,CAD,0.74,21150.1,Cheque,Pending,Europe,Lisa Chen,0.0878,1911.11,0.21,23476.54,86857
+31,1,John Smith,C001,Consulting Services,Services,15863.28,CAD,0.74,11738.83,Paypal,Pending,Europe,Lisa Chen,0.0462,0.0,0.3,11104.3,76220
+32,44,Xyz Enterprises,C008,Cloud Subscription,Software,14870.41,EUR,1.08,16060.04,Paypal,Complete,North America,Lisa Chen,0.0985,1487.04,0.25,12639.85,74318
+33,29,John Smith,C001,Data Storage,Products,1101.0,CAD,0.74,814.74,Ach,Failed,Latin America,Lisa Chen,0.0639,110.1,0.25,935.85,79009
+34,131,Acme Corp,C001,Cloud Subscription,Software,17509.27,GBP,1.27,22236.77,Cash,Pending,Europe,Mike Wilson,0.1074,1400.74,0.17,15933.43,99979
+35,180,John Smith,C001,Support Contract,Services,25139.56,CAD,0.74,18603.27,Cheque,Failed,North America,Unknown,0.0883,2011.16,0.15,23379.79,65212
+36,167,Xyz Enterprises,C008,Cloud Subscription,Software,2224.0,GBP,1.27,2824.48,Wire Transfer,Failed,Europe,Lisa Chen,0.0458,444.8,0.12,2401.92,86369
+37,188,Tech Solutions,C001,H/W,Products,14848.0,USD,1.0,14848.0,Paypal,Failed,North America,Lisa Chen,0.1291,1484.8,0.27,12323.84,72546
+38,200,Acme Corp.,C003,Consulting,Services,13252.065,USD,1.0,13252.07,Cheque,Completed,Asia Pacific,Lisa Chen,0.1215,0.0,0.02,12987.02,48128
+39,175,John Smith,C001,Training,Services,17235.58,CAD,0.74,12754.33,Cheque,Failed,Asia Pacific,Mike Wilson,0.1109,861.78,0.16,15339.67,31338
+40,65,John Smith,C001,Hardware,Products,23612.577,GBP,1.27,29987.97,Cheque,Cancelled,Asia Pacific,Mike Wilson,0.1313,2361.26,0.09,23848.71,59219
+41,182,John Smith,C001,Software License,Software,43074.17,USD,1.0,21150.1,Wire Transfer,Failed,Latin America,Unknown,0.0883,6461.13,0.08,46089.37,57670
+42,19,Xyz Enterprises,C008,Hardware,Products,22929.0,EUR,1.08,24763.32,Credit Card,Complete,Latin America,Carlos Mendez,0.1187,3439.35,0.12,26368.35,90888
+43,137,Sarah Connor,C006,Support Contract,Services,43415.4115,USD,1.0,43415.41,Wire Transfer,Pending,Europe,Lisa Chen,0.1312,2170.77,0.12,40376.33,92399
+44,53,Tech Solutions Ltd,C005,Training,Services,38144.0125,JPY,0.0067,255.56,Check,Cancelled,North America,Mike Wilson,0.0909,5721.6,0.06,41576.97,15400
+45,16,Jane Doe,C002,Consulting Services,Services,12059.91,JPY,0.0067,80.8,Cheque,Pending,Latin America,Carlos Mendez,0.0709,1808.99,0.19,11577.52,38667
+46,20,Robert Johnson,C004,Support Contract,Services,40708.0,USD,1.0,40708.0,Wire Transfer,Refunded,Asia Pacific,Tom Brown,0.0818,0.0,0.08,37451.36,42041
+47,87,Tech Solutions Ltd,C005,Support Contract,Services,38503.5252,JPY,0.0067,257.97,Credit Card,Canceled,Europe,Mike Wilson,0.1381,3850.35,0.09,38888.56,44365
+48,39,Acme Corp,C003,Hardware,Products,9945.88,USD,1.0,9945.88,Cheque,Pending,North America,Carlos Mendez,0.0352,795.67,0.29,7857.24,76003
+49,189,John Smith,C001,Software License,Software,3973.0,EUR,1.08,4290.84,Paypal,Failed,North America,Tom Brown,0.0855,0.0,0.08,3655.16,55364
+50,75,Maria Garcia,C001,Hardware,Products,14483.0,USD,1.0,14483.0,Credit Card,Cancelled,Europe,Mike Wilson,0.118,2172.45,0.03,16220.96,32073
+51,37,Sarah Connor,C006,Data Storage,Products,45038.0,USD,1.0,45038.0,Credit Card,Completed,North America,Lisa Chen,0.1329,9007.6,0.02,53144.84,19718
+52,87,Jane  Doe,C002,H/W,Products,8342.4442,USD,1.0,8342.44,Credit Card,Pending,Asia Pacific,Anna Schmidt,0.0452,0.0,0.12,8342.44,73635
+53,174,Jane Doe,C002,Hardware,Products,21883.46,EUR,1.08,23634.14,Credit Card,Failed,Europe,Carlos Mendez,0.1302,1911.11,0.13,19038.61,24045
+54,187,Jane Doe,C002,Data Storage,Products,27989.74,USD,1.0,27989.74,Ach,Cancelled,Asia-Pacific,Anna Schmidt,0.115,5597.95,0.21,27709.84,46525
+55,95,John Smith,C001,Training,Services,26721.95,USD,1.0,26721.95,Credit Card,Pending,Asia-Pacific,Mike Wilson,0.0563,2672.2,0.06,27790.83,72459
+56,12,Xyz Enterprises,C008,Consulting,Services,25543.0,CAD,0.74,18901.82,Cheque,Completed,Latin America,Lisa Chen,0.0749,5108.6,0.13,27331.01,90483
+57,160,Jane Doe,C002,Software License,Software,27469.47,CAD,0.74,20327.41,Paypal,Failed,Asia-Pacific,Unknown,0.1076,1373.47,0.16,24447.82,38660
+58,60,Acme Corporation,C003,H/W,Products,13027.0,USD,1.0,13027.0,Credit Card,Cancelled,Europe,Lisa Chen,0.0878,2605.4,0.25,12375.65,42024
+59,146,John Smith,C001,Consulting,Services,34502.9517,USD,1.0,34502.95,Wire Transfer,Failed,North America,Lisa Chen,0.0421,6900.59,0.08,38643.31,77082
+60,86,Sarah Connor,C006,Software License,Software,32704.03,USD,1.0,21150.1,Paypal,Refunded,Asia Pacific,Tom Brown,0.0867,1911.11,0.1,23476.54,96778
+61,124,John Smith,C001,Software License,Software,42857.0,USD,1.0,42857.0,Paypal,Failed,Asia Pacific,Mike Wilson,0.1206,8571.4,0.14,45428.42,64333
+62,93,Jane Doe,C002,Data Storage,Products,21802.64,GBP,1.27,27689.35,Credit Card,Completed,Latin America,Mike Wilson,0.0349,1090.13,0.1,20712.51,75223
+63,142,Acme Corporation,C003,Hardware,Products,28840.7497,GBP,1.27,36627.75,Paypal,Canceled,North America,Tom Brown,0.0421,1911.11,0.3,20188.52,12788
+64,51,Xyz Enterprises,C008,Cloud Subscription,Software,23406.0,GBP,1.27,29725.62,Credit Card,Canceled,Asia-Pacific,Lisa Chen,0.0624,4681.2,0.04,27150.96,12710
+65,108,Acme Corp,C003,Software License,Software,29171.8648,JPY,0.0067,195.45,Check,Canceled,North America,Carlos Mendez,0.0999,5834.37,0.1,32089.05,51274
+66,167,John Smith,C001,Data Storage,Products,32704.03,USD,1.0,21150.1,Cheque,Cancelled,Europe,Lisa Chen,0.0349,1911.11,0.02,23476.54,29865
+67,59,Bob Johnson,C004,Hardware,Products,18780.7657,GBP,1.27,23851.57,Wire Transfer,Cancelled,North America,Mike Wilson,0.0539,2817.11,0.0,21597.88,43288
+68,57,John Smith,C001,Cloud Subscription,Software,38717.1287,EUR,1.08,41814.5,Cheque,Failed,Europe,Mike Wilson,0.1149,0.0,0.22,23476.54,54880
+69,102,Acme Corp,C003,Software License,Software,30672.0,GBP,1.27,38953.44,Credit Card,Failed,North America,Unknown,0.0349,3067.2,0.12,33739.2,66238
+70,30,Maria Garcia,C007,Hardware,Products,32793.71,GBP,1.27,41648.01,Check,Failed,Europe,Lisa Chen,0.0848,1639.69,0.06,32465.78,58642
+71,80,Acme Corp,C003,Support Contract,Services,29529.7744,EUR,1.08,31892.16,Cash,Canceled,Asia Pacific,Tbd,0.1465,2362.38,0.07,29825.07,56759
+73,186,Tech Solutions,C005,Support Contract,Services,45013.0,GBP,1.27,57166.51,Cheque,Pending,Europe,Tom Brown,0.1164,9002.6,0.12,23476.54,76598
+74,147,Tech Solutions,C005,Software License,Software,1074.0,EUR,1.08,1159.92,Paypal,Refunded,North America,Mike Wilson,0.1126,214.8,0.19,1084.74,47750
+75,194,Acme Corp.,C003,Software License,Software,32607.0,USD,1.0,32607.0,Wire Transfer,Cancelled,Europe,Anna Schmidt,0.1063,4891.05,0.12,37498.05,86716
+76,109,Sarah Connor,C001,Software License,Software,38526.56,USD,1.0,38526.56,Check,Canceled,Latin America,Unknown,0.1046,5778.98,0.19,36985.49,16225
+77,76,John Smith,C001,Data Storage,Products,-39824.0,USD,1.0,-39824.0,Wire Transfer,Completed,North America,Lisa Chen,0.0903,0.0,0.15,-33850.4,21121
+78,35,Maria Garcia,C007,Hardware,Products,31500.84,USD,1.0,31500.84,Cheque,Completed,Asia-Pacific,Carlos Mendez,0.0486,6300.17,0.12,34020.91,30811
+79,74,Jane  Doe,C002,Hardware,Products,24756.0,USD,1.0,24756.0,Ach,Refunded,Europe,Lisa Chen,0.0835,4951.2,0.03,23476.54,36698
+80,47,Tech Solutions Ltd,C005,Software License,Software,26382.0,JPY,0.0067,176.76,Credit Card,Failed,North America,Mike Wilson,0.1173,1319.1,0.26,20841.78,85455
+81,31,Acme Corporation,C003,Support Contract,Services,43454.0,GBP,1.27,55186.58,Cheque,Cancelled,Asia Pacific,Lisa Chen,0.0946,0.0,0.21,34328.66,83465
+82,153,John Smith,C001,Cloud Subscription,Software,42122.0,CAD,0.74,31170.28,Wire Transfer,Failed,Latin America,Carlos Mendez,0.1039,0.0,0.1,37909.8,29726
+83,120,John Smith,C001,Data Storage,Products,22080.6191,EUR,1.08,23847.07,Wire Transfer,Completed,Europe,Lisa Chen,0.1112,1766.45,0.1,21639.01,88979
+84,129,Xyz Enterprises,C008,Data Storage,Products,5242.6628,GBP,1.27,6658.18,Credit Card,Cancelled,Asia-Pacific,Lisa Chen,0.1199,1048.53,0.21,5190.23,29865
+85,122,Xyz Enterprises,C008,Training,Services,37237.2291,USD,1.0,37237.23,Credit Card,Complete,Latin America,Tbd,0.0873,2978.98,0.15,34630.62,37945
+87,55,Acme Corp,C003,Training,Services,25054.63,USD,1.0,25054.63,Credit Card,Failed,Latin America,Anna Schmidt,0.0492,2004.37,0.06,23476.54,68244
+88,101,Tech Solutions Ltd,C005,Hardware,Products,28697.95,GBP,1.27,36446.4,Credit Card,Canceled,Latin America,Unknown,0.0848,5739.59,0.12,34437.54,15985
+89,72,John Smith,C001,Support Contract,Services,11043.4633,GBP,1.27,14025.2,Paypal,Pending,North America,Tbd,0.0542,0.0,0.12,9718.25,94368
+90,24,Tech Solutions,C005,Support Contract,Services,45528.73,USD,1.0,45528.73,Ach,Failed,Latin America,Lisa Chen,0.0511,9105.75,0.14,48260.46,89761
+91,91,Bob Johnson,C004,Software License,Software,44779.5377,CAD,0.74,33136.86,Paypal,Pending,Europe,Unknown,0.058,8955.91,0.02,52839.86,70422
+92,171,Maria Garcia,C007,Support Contract,Services,44276.03,USD,1.0,44276.03,Wire Transfer,Cancelled,Europe,Mike Wilson,0.1377,2213.8,0.12,46489.83,55146
+93,35,Jane  Doe,C002,Support Contract,Services,38799.4314,EUR,1.08,41903.39,Check,Pending,North America,Lisa Chen,0.0519,0.0,0.17,32203.53,34775
+95,193,Acme Corporation,C003,Consulting,Services,40163.4007,USD,1.0,40163.4,Check,Pending,Europe,Lisa Chen,0.0642,4016.34,0.27,33335.62,32194
+96,50,Acme Corp.,C003,Data Storage,Products,35467.52,USD,1.0,35467.52,Credit Card,Cancelled,Latin America,Unknown,0.0865,2837.4,0.3,27664.66,21891
+97,138,Jane  Doe,C002,H/W,Products,48656.0,GBP,1.27,61793.12,Credit Card,Cancelled,North America,Tbd,0.0584,9731.2,0.01,57900.64,42398
+98,98,John Smith,C001,Hardware,Products,33424.3888,JPY,0.0067,223.94,Wire Transfer,Pending,Latin America,Lisa Chen,0.0904,0.0,0.1,30081.95,74090
+99,4,Jane Doe,C002,Consulting Services,Services,4679.4914,USD,1.0,4679.49,Cheque,Pending,Europe,Lisa Chen,0.0951,374.36,0.0,5053.85,98908
+100,154,Jane Doe,C002,Training,Services,30672.0,GBP,1.27,21150.1,Ach,Completed,Asia Pacific,Tom Brown,0.0567,1911.11,0.19,23476.54,76001
+101,62,John Smith,C001,Software License,Software,46402.0,JPY,0.0067,310.89,Cheque,Pending,North America,Tbd,0.0536,9280.4,0.04,53826.32,27976
+103,64,Xyz Enterprises,C008,Consulting,Services,7358.7051,USD,1.0,7358.71,Credit Card,Cancelled,Latin America,Lisa Chen,0.1147,367.94,0.3,5519.03,14873
+104,171,Maria Garcia,C007,Hardware,Products,25528.9156,GBP,1.27,32421.72,Credit Card,Refunded,North America,Mike Wilson,0.0349,3829.34,0.12,29358.26,29596
+105,156,Robert Johnson,C004,Hardware,Products,25791.8681,JPY,0.0067,172.81,Credit Card,Refunded,Europe,Lisa Chen,0.0357,2579.19,0.25,21923.09,42064
+106,83,John Smith,C001,Software License,Software,-47789.0,CAD,0.74,-35363.86,Cheque,Failed,Asia-Pacific,Anna Schmidt,0.0326,-4778.9,0.29,-38709.09,78935
+107,114,Acme Corp.,C003,Data Storage,Products,48678.0,USD,1.0,48678.0,Cheque,Canceled,Europe,Lisa Chen,0.0867,0.0,0.22,37968.84,28358
+108,178,Jane Doe,C001,Cloud Subscription,Software,45727.71,USD,1.0,45727.71,Cheque,Complete,Asia Pacific,Lisa Chen,0.1183,2286.39,0.28,35210.34,57243
+109,191,Jane Doe,C002,Cloud Subscription,Software,43673.0,USD,1.0,43673.0,Wire Transfer,Pending,North America,Lisa Chen,0.1447,8734.6,0.12,52407.6,44260
+110,115,Jane  Doe,C002,Training,Services,12492.13,USD,1.0,12492.13,Paypal,Completed,Asia-Pacific,Lisa Chen,0.0823,2498.43,0.06,14241.03,88899
+112,144,Acme Corp.,C003,Hardware,Products,6691.3219,USD,1.0,6691.32,Paypal,Cancelled,Latin America,Anna Schmidt,0.0459,669.13,0.11,6624.41,59626
+113,176,Robert Johnson,C004,Data Storage,Products,11340.0,GBP,1.27,14401.8,Ach,Complete,Europe,Carlos Mendez,0.0355,1701.0,0.12,13041.0,24143
+114,100,Acme Corporation,C003,Data Storage,Products,16633.0,EUR,1.08,17963.64,Wire Transfer,Cancelled,Latin America,Mike Wilson,0.0321,1663.3,0.12,16300.34,39071
+115,85,John Smith,C001,Hardware,Products,42188.55,GBP,1.27,53579.46,Cash,Cancelled,Asia Pacific,Mike Wilson,0.0535,6328.28,0.24,38391.58,34665
+116,112,Maria Garcia,C007,Support Contract,Services,39369.8,GBP,1.27,49999.65,Cash,Failed,North America,Tbd,0.0867,0.0,0.23,30314.75,67613
+117,69,John Smith,C001,Software License,Software,10133.0,EUR,1.08,10943.64,Credit Card,Complete,North America,Lisa Chen,0.1153,810.64,0.09,10031.67,29865
+118,134,Jane  Doe,C002,H/W,Products,27713.3508,USD,1.0,27713.35,Cheque,Canceled,North America,Tom Brown,0.0967,0.0,0.12,24387.75,73198
+119,161,Bob Johnson,C004,H/W,Products,25646.33,EUR,1.08,27698.04,Cheque,Cancelled,Asia-Pacific,Tom Brown,0.0875,2564.63,0.02,27698.03,10290
+120,71,Xyz Enterprises,C008,Hardware,Products,46304.0,GBP,1.27,58806.08,Credit Card,Failed,Latin America,Lisa Chen,0.0576,2315.2,0.13,42599.68,23791
+121,199,John Smith,C001,Support Contract,Services,18273.97,USD,1.0,18273.97,Credit Card,Pending,Latin America,Mike Wilson,0.1308,3654.79,0.13,19553.14,24050
+122,41,Xyz Enterprises,C008,H/W,Products,21360.0,CAD,0.74,15806.4,Paypal,Refunded,Asia-Pacific,Unknown,0.0957,4272.0,0.14,22641.6,81697
+123,185,Tech Solutions,C005,Consulting,Services,42351.6774,EUR,1.08,21150.1,Cash,Failed,Latin America,Anna Schmidt,0.0867,1911.11,0.02,23476.54,89918
+124,162,Acme Corp.,C003,Cloud Subscription,Software,9600.0,GBP,1.27,12192.0,Credit Card,Cancelled,Europe,Tbd,0.0433,0.0,0.19,7776.0,45501
+126,157,Tech Solutions Ltd,C005,Consulting Services,Services,267.0,USD,1.0,21150.1,Paypal,Canceled,Latin America,Tbd,0.0349,1911.11,0.02,23476.54,10179
+127,70,Jane  Doe,C002,Support Contract,Services,39383.42,EUR,1.08,21150.1,Credit Card,Completed,Asia Pacific,Unknown,0.058,1911.11,0.23,23476.54,72704
+128,165,Tech Solutions,C005,Support Contract,Services,16914.04,JPY,0.0067,113.32,Paypal,Completed,Asia-Pacific,Tom Brown,0.0884,0.0,0.3,11839.83,59817
+129,140,Jane  Doe,C002,Data Storage,Products,21743.2908,USD,1.0,21743.29,Paypal,Completed,Europe,Tom Brown,0.0867,3261.49,0.19,20873.56,51343
+130,197,Bob Johnson,C004,Consulting,Services,37433.0,USD,1.0,37433.0,Cheque,Completed,Europe,Tbd,0.035,7486.6,0.26,35187.02,74397
+131,184,Acme Corp,C003,Hardware,Products,14411.6172,JPY,1.0,21150.1,Wire Transfer,Cancelled,Latin America,Mike Wilson,0.1437,1441.16,0.23,12538.11,69755
+132,195,Sarah Connor,C006,H/W,Products,14743.48,USD,1.0,14743.48,Credit Card,Pending,Europe,Lisa Chen,0.0939,2948.7,0.06,16807.57,47528
+133,198,Acme Corporation,C003,Cloud Subscription,Software,25448.0,GBP,1.27,32318.96,Cheque,Refunded,Asia-Pacific,Mike Wilson,0.0905,2544.8,0.06,23476.54,72500
+134,125,Acme Corp.,C003,Consulting,Services,49904.5265,JPY,0.0067,334.36,Credit Card,Failed,Asia Pacific,Mike Wilson,0.0857,4990.45,0.03,53397.84,85650
+135,96,Acme Corp.,C003,Software License,Software,44991.09,USD,1.0,44991.09,Wire Transfer,Cancelled,Europe,Mike Wilson,0.0422,3599.29,0.2,39592.16,61121
+136,3,Jane  Doe,C002,Software License,Software,37056.1603,JPY,0.0067,248.28,Ach,Canceled,North America,Unknown,0.0867,3705.62,0.17,34462.23,21406
+137,42,Jane  Doe,C002,Cloud Subscription,Software,18860.0,CAD,0.74,13956.4,Paypal,Completed,Asia Pacific,Carlos Mendez,0.1276,1886.0,0.12,18482.8,81848
+138,159,Sarah Connor,C006,Cloud Subscription,Software,28237.86,CAD,1.0,21150.1,Credit Card,Pending,Europe,Anna Schmidt,0.0705,2259.03,0.04,29367.38,98866
+139,81,Tech Solutions,C005,Cloud Subscription,Software,2326.63,EUR,1.08,2512.76,Credit Card,Completed,North America,Lisa Chen,0.0726,0.0,0.22,1814.77,40980
+140,179,Tech Solutions Ltd,C005,Consulting Services,Services,18631.91,GBP,1.27,23662.53,Wire Transfer,Failed,North America,Lisa Chen,0.0885,3726.38,0.05,21426.69,50255
+141,123,Acme Corp.,C003,Training,Services,28584.0,EUR,1.0,21150.1,Credit Card,Pending,Asia Pacific,Unknown,0.0494,2286.72,0.17,26011.44,63088
+143,27,Jane Doe,C002,Support Contract,Services,45671.85,EUR,1.08,49325.6,Cheque,Complete,North America,Tbd,0.1474,2283.59,0.14,41561.38,53067
+145,52,Tech Solutions Ltd,C005,Consulting Services,Services,6990.09,EUR,1.08,7549.3,Credit Card,Completed,Asia Pacific,Carlos Mendez,0.0473,559.21,0.22,6011.48,27700
+146,26,Sarah Connor,C006,Support Contract,Services,6913.07,EUR,1.08,21150.1,Paypal,Failed,Europe,Mike Wilson,0.1128,1911.11,0.07,23476.54,11758
+147,132,Robert Johnson,C004,Data Storage,Products,15256.17,EUR,1.08,16476.66,Credit Card,Canceled,Asia-Pacific,Lisa Chen,0.077,1220.49,0.02,16171.54,94943
+148,151,Xyz Enterprises,C008,Cloud Subscription,Software,18610.0,CAD,0.74,13771.4,Cash,Completed,North America,Tom Brown,0.072,0.0,0.2,14888.0,17581
+149,33,Robert Johnson,C004,Support Contract,Services,39391.19,CAD,0.74,29149.48,Ach,Failed,North America,Tbd,0.1475,0.0,0.28,28361.66,53920
+150,10,Tech Solutions,C005,Data Storage,Products,32173.0,USD,1.0,32173.0,Paypal,Complete,North America,Lisa Chen,0.0556,0.0,0.09,29277.43,66563
+151,170,Jane Doe,C002,Cloud Subscription,Software,16671.0,USD,1.0,16671.0,Credit Card,Pending,Europe,Lisa Chen,0.1022,1667.1,0.17,15504.03,60998
+152,66,Sarah Connor,C006,Software License,Software,7798.0,USD,1.0,7798.0,Credit Card,Completed,North America,Mike Wilson,0.0869,389.9,0.07,7642.04,53680
+153,105,Xyz Enterprises,C008,Support Contract,Services,36675.0,EUR,1.08,39609.0,Ach,Failed,Europe,Tom Brown,0.0464,0.0,0.16,30807.0,16408
+154,67,Robert Johnson,C004,Hardware,Products,7905.01,CAD,0.74,5849.71,Cash,Completed,Europe,Lisa Chen,0.0354,1581.0,0.12,9486.01,79890
+155,32,Sarah Connor,C006,Hardware,Products,40797.24,EUR,1.0,21150.1,Credit Card,Pending,Europe,Mike Wilson,0.083,4079.72,0.12,44876.96,74877
+156,183,Xyz Enterprises,C008,Hardware,Products,26306.6386,GBP,1.27,33409.43,Cheque,Pending,North America,Lisa Chen,0.1258,2630.66,0.11,26043.57,12833
+157,9,Acme Corporation,C003,Support Contract,Services,12032.0,USD,1.0,12032.0,Wire Transfer,Cancelled,Europe,Unknown,0.1299,2406.4,0.27,11189.76,65259
+158,126,John Smith,C001,Software License,Software,21757.0,USD,1.0,21757.0,Paypal,Cancelled,North America,Tbd,0.0867,1087.85,0.27,16970.46,51462
+159,46,John Smith,C001,Data Storage,Products,1864.0,USD,1.0,1864.0,Cheque,Completed,Europe,Lisa Chen,0.1171,186.4,0.1,1864.0,30932
+161,7,Acme Corp.,C003,Consulting,Services,25249.0,GBP,1.27,32066.23,Wire Transfer,Complete,Latin America,Anna Schmidt,0.1167,2019.92,0.12,24239.04,97156
+162,103,Xyz Enterprises,C008,H/W,Products,48382.78,EUR,1.08,52253.4,Paypal,Failed,Latin America,Lisa Chen,0.093,0.0,0.22,37738.57,46288
+163,136,John Smith,C001,H/W,Products,35688.7702,USD,1.0,21150.1,Check,Pending,North America,Lisa Chen,0.0935,5353.32,0.07,38543.88,53064
+164,166,Robert Johnson,C004,Data Storage,Products,4957.0,USD,1.0,4957.0,Credit Card,Canceled,Europe,Lisa Chen,0.0444,991.4,0.04,5750.12,84666
+165,11,Maria Garcia,C007,Support Contract,Services,44497.0,EUR,1.08,48056.76,Wire Transfer,Cancelled,North America,Lisa Chen,0.1261,3559.76,0.03,46721.85,62264
+166,192,Tech Solutions Ltd,C005,Software License,Software,4121.0,EUR,1.08,4450.68,Ach,Pending,North America,Lisa Chen,0.0867,824.2,0.2,4121.0,38301
+167,45,Sarah Connor,C006,Hardware,Products,26831.02,CAD,0.74,19854.95,Cash,Completed,Asia-Pacific,Lisa Chen,0.108,2683.1,0.15,25489.47,13783
+168,113,Acme Corp,C003,H/W,Products,40693.7,GBP,1.27,51681.0,Wire Transfer,Refunded,Europe,Tom Brown,0.0518,4069.37,0.09,41100.64,16723
+169,54,Jane Doe,C002,Support Contract,Services,12903.66,CAD,0.74,21150.1,Ach,Cancelled,Europe,Lisa Chen,0.0317,1911.11,0.29,23476.54,38068
+170,141,Sarah Connor,C006,Consulting Services,Services,42761.71,CAD,0.74,31643.67,Cheque,Pending,Latin America,Lisa Chen,0.0786,6414.26,0.29,36775.07,63038
+171,106,Xyz Enterprises,C008,Data Storage,Products,28356.0,GBP,1.27,36012.12,Credit Card,Complete,North America,Mike Wilson,0.0575,2268.48,0.09,28072.44,11313
+173,167,Tech Solutions Ltd,C005,Software License,Software,17719.024,CAD,0.74,13112.08,Credit Card,Pending,North America,Carlos Mendez,0.0482,1417.52,0.03,18604.97,14619
+174,92,Acme Corp.,C003,Software License,Software,37748.0,EUR,1.08,40767.84,Credit Card,Completed,Asia Pacific,Lisa Chen,0.1383,0.0,0.04,36238.08,80107
+175,106,John Smith,C001,Hardware,Products,16210.0,GBP,1.27,20586.7,Paypal,Pending,Latin America,Unknown,0.092,1621.0,0.0,17831.0,62551
+176,34,John Smith,C001,H/W,Products,28375.0,JPY,0.0067,190.11,Cheque,Pending,Asia-Pacific,Carlos Mendez,0.1494,2837.5,0.13,27523.75,39134
+177,84,Tech Solutions Ltd,C005,Cloud Subscription,Software,45645.39,EUR,1.08,49297.02,Wire Transfer,Completed,North America,Lisa Chen,0.0337,0.0,0.02,44732.48,13693
+178,158,John Smith,C001,Consulting Services,Services,16641.0,CAD,0.74,12314.34,Paypal,Cancelled,Europe,Lisa Chen,0.1091,0.0,0.23,12813.57,87401
+180,94,John Smith,C001,Consulting Services,Services,5432.3404,EUR,1.08,5866.93,Paypal,Cancelled,Europe,Anna Schmidt,0.0855,1086.47,0.2,5432.34,91969
+181,150,Acme Corporation,C003,H/W,Products,29937.2874,CAD,0.74,22153.59,Credit Card,Cancelled,Asia Pacific,Lisa Chen,0.1094,5987.46,0.26,28141.05,94510
+182,14,John Smith,C001,Software License,Software,17747.86,CAD,1.0,21150.1,Paypal,Cancelled,Latin America,Lisa Chen,0.1199,0.0,0.12,15618.12,16099
+183,149,Bob Johnson,C004,Training,Services,900.0,USD,1.0,900.0,Credit Card,Cancelled,North America,Unknown,0.1264,45.0,0.1,855.0,42685
+184,78,Bob Johnson,C004,Hardware,Products,5340.2669,GBP,1.27,6782.14,Credit Card,Refunded,Latin America,Lisa Chen,0.1085,0.0,0.08,4913.05,82448
+185,78,Xyz Enterprises,C008,Data Storage,Products,28673.5,USD,1.0,28673.5,Paypal,Completed,Asia Pacific,Lisa Chen,0.0547,1911.11,0.02,28100.03,17542
+186,56,Xyz Enterprises,C008,Hardware,Products,11830.595,EUR,1.08,12777.04,Cheque,Completed,Europe,Lisa Chen,0.0589,946.45,0.24,9937.7,80955
+187,104,John Smith,C001,Hardware,Products,22115.4519,EUR,1.08,23884.69,Paypal,Canceled,Latin America,Tbd,0.1143,4423.09,0.04,25653.92,58975
+188,128,Robert Johnson,C001,Training,Services,10774.0,CAD,0.74,7972.76,Paypal,Completed,Latin America,Mike Wilson,0.0341,0.0,0.11,9588.86,21864
+189,99,Sarah Connor,C001,Consulting,Services,8533.93,EUR,1.08,9216.64,Cash,Completed,Europe,Lisa Chen,0.1019,1280.09,0.21,8021.89,59719
+190,89,Sarah Connor,C006,Data Storage,Products,19283.7589,EUR,1.08,20826.46,Paypal,Pending,Latin America,Lisa Chen,0.1139,1911.11,0.3,13498.63,30099
+191,90,Acme Corporation,C003,Support Contract,Services,10057.2785,USD,1.0,10057.28,Credit Card,Refunded,Asia-Pacific,Mike Wilson,0.0595,1508.59,0.04,11163.58,70117
+192,135,Acme Corp,C003,Data Storage,Products,3775.2354,JPY,0.0067,25.29,Credit Card,Pending,Europe,Anna Schmidt,0.0338,0.0,0.02,3699.73,74708
+193,173,Robert Johnson,C004,Data Storage,Products,48922.0,CAD,0.74,36202.28,Cheque,Cancelled,Europe,Carlos Mendez,0.0867,3913.76,0.12,52835.76,35178
+194,115,Xyz Enterprises,C008,Consulting,Services,10272.13,USD,1.0,10272.13,Cheque,Canceled,Europe,Mike Wilson,0.0795,821.77,0.17,9347.64,80590
+195,47,John Smith,C001,Software License,Software,20813.0,JPY,0.0067,139.45,Wire Transfer,Canceled,Europe,Tbd,0.0803,1665.04,0.1,20396.74,53680
+196,139,Acme Corp,C003,Consulting,Services,23888.8669,USD,1.0,23888.87,Paypal,Pending,Latin America,Anna Schmidt,0.0811,1911.11,0.28,19111.09,31201
+197,97,Robert Johnson,C004,Software License,Software,1551.0,GBP,1.27,1969.77,Ach,Pending,Latin America,Lisa Chen,0.0861,232.65,0.08,23476.54,54204
+198,13,Bob Johnson,C004,Support Contract,Services,13873.0,CAD,0.74,10266.02,Cheque,Pending,Europe,Mike Wilson,0.0807,0.0,0.12,13873.0,12566
+199,8,Xyz Enterprises,C008,H/W,Products,29395.18,CAD,0.74,21752.43,Paypal,Pending,Asia Pacific,Lisa Chen,0.0465,2939.52,0.08,29983.09,50224
+200,2,John Smith,C001,Cloud Subscription,Software,25893.0,JPY,0.0067,173.48,Cheque,Cancelled,North America,Anna Schmidt,0.0409,2071.44,0.09,25634.07,31107
+201,17,Xyz Enterprises,C008,Software License,Software,47669.3368,EUR,1.08,51482.88,Credit Card,Refunded,Asia-Pacific,Mike Wilson,0.1155,3813.55,0.17,43379.1,98338
+202,14,Jane Doe,C002,Training,Services,20945.05,USD,1.0,21150.1,Cheque,Cancelled,Asia Pacific,Lisa Chen,0.1343,4189.01,0.12,25134.06,55655
+203,127,Jane Doe,C002,Consulting,Services,31850.5314,JPY,0.0067,213.4,Cheque,Pending,Europe,Lisa Chen,0.0343,2548.04,0.26,26117.43,44705
+204,62,Robert Johnson,C004,Support Contract,Services,6919.81,GBP,1.27,8788.16,Ach,Completed,Latin America,Lisa Chen,0.0393,1383.96,0.11,7542.59,19953
+206,21,Jane Doe,C002,Support Contract,Services,19649.45,CAD,0.74,14540.59,Credit Card,Failed,North America,Lisa Chen,0.1052,982.47,0.24,15916.05,99515
+207,130,John Smith,C001,Software License,Software,21064.0,EUR,1.08,22749.12,Paypal,Failed,Latin America,Mike Wilson,0.1012,0.0,0.22,16429.92,39123
+208,119,Acme Corp,C003,Data Storage,Products,31374.75,EUR,1.08,33884.73,Check,Cancelled,North America,Lisa Chen,0.1495,4706.21,0.24,28551.02,60441
+211,40,Tech Solutions,C005,Hardware,Products,35855.0,USD,1.0,35855.0,Cheque,Cancelled,Europe,Tom Brown,0.0811,0.0,0.19,29042.55,24931
+212,121,John Smith,C001,Data Storage,Products,22858.8619,USD,1.0,22858.86,Credit Card,Failed,North America,Tbd,0.0418,1828.71,0.12,21944.51,57247
